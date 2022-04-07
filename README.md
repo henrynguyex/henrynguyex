@@ -1,3 +1,1 @@
-# henrynguyex.github.io
-
-### 👋👋👋
+### henrynguyex.github.io
