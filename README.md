@@ -1,3 +1,3 @@
 ## Contact Us<br>
 If you have any questions related to our app, please contact us.<br>
-Email: henrynguyen1788@outlook.com
+Email: <henrynguyen1788@outlook.com>
